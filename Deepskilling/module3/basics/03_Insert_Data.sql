@@ -1,0 +1,1 @@
+INSERT INTO Employee VALUES (1,'Alice','IT',50000),(2,'Bob','HR',45000),(3,'Cara','IT',70000);

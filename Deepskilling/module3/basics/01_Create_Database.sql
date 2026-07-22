@@ -1,0 +1,3 @@
+CREATE DATABASE FSE_Module3;
+GO
+USE FSE_Module3;

@@ -1,0 +1,1 @@
+BEGIN TRAN; UPDATE Employee SET Salary+=1000; COMMIT;

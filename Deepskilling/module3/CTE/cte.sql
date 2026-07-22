@@ -1,0 +1,1 @@
+WITH C AS (SELECT * FROM Employee) SELECT * FROM C;

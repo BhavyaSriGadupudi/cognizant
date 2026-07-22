@@ -1,0 +1,1 @@
+CREATE VIEW vEmployee AS SELECT * FROM Employee;

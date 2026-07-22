@@ -1,0 +1,1 @@
+CREATE INDEX IX_Emp_Dept ON Employee(Dept);

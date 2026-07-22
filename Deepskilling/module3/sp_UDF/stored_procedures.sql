@@ -1,0 +1,1 @@
+CREATE PROC GetEmployees AS SELECT * FROM Employee;

@@ -1,1 +1,0 @@
-SELECT *,DENSE_RANK() OVER(ORDER BY Salary DESC) DR FROM Employee;

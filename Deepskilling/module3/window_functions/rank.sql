@@ -1,1 +1,0 @@
-SELECT *,RANK() OVER(ORDER BY Salary DESC) Rnk FROM Employee;

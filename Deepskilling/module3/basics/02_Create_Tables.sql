@@ -1,1 +1,0 @@
-CREATE TABLE Employee(EmpId INT PRIMARY KEY, Name VARCHAR(50), Dept VARCHAR(30), Salary INT);

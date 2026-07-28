@@ -1,1 +1,0 @@
-SELECT *,ROW_NUMBER() OVER(ORDER BY Salary DESC) RN FROM Employee;
